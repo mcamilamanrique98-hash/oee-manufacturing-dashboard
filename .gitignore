@@ -1,0 +1,19 @@
+# Environment variables (contains real database credentials — NEVER commit this)
+.env
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE folders
+.vscode/
+.idea/
+
+# Temporary output files
+salida.txt
+*.log
